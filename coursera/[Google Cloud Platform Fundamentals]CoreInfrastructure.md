@@ -33,3 +33,6 @@
 * Nearline : Accessed less than once a month
 
 * Coldline : Accessed less than once a year
+
+## Cloud Big Table
+
