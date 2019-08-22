@@ -45,3 +45,9 @@
 ## Cloud Datastore
 
 * NoSQL
+
+## Detail
+
+| Cloud DataStore | Bigtable | Cloud Store | Cloud SQL | Cloud Spanner | BigQuery |
+|---|:---:|:---:|:---:|:---:|:---:|
+
