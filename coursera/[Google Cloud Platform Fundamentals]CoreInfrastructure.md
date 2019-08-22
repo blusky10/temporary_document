@@ -36,3 +36,12 @@
 
 ## Cloud Big Table
 
+* NoSQL
+
+## Cloud SQL & Cloud Spanner
+
+* Relational Database
+
+## Cloud Datastore
+
+* NoSQL
