@@ -48,6 +48,11 @@
 
 ## Detail
 
-| Cloud DataStore | Bigtable | Cloud Store | Cloud SQL | Cloud Spanner | BigQuery |
-|---|:---:|:---:|:---:|:---:|:---:|
+|| Cloud DataStore | Bigtable | Cloud Store | Cloud SQL | Cloud Spanner | BigQuery |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|
+|Type|NoSQL|NoSQL|Blobstore|Relational SQL|Relational SQL|Relational SQL|
+|Transaction|Yes|Single-row|No|Yes|Yes|No|
+|Complex Query|NO|NO|NO|YES|YES|YES|
+|Capacity|Terabytes|Petabytes|Petabytes|Terabytes|Petabytes|Petabytes|
 
+## App Engine
