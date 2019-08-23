@@ -56,3 +56,30 @@
 |Capacity|Terabytes|Petabytes|Petabytes|Terabytes|Petabytes|Petabytes|
 
 ## App Engine
+
+### Standard
+
+* Easily deploy your application
+
+* Autoscale workloads
+
+* Free daily quota
+
+* Usage based pricing
+
+### Flexible
+
+* Web , Mobile application, continer based.
+
+* Flexible vs Standard
+
+|| Standard | Flexible |
+|---|:---:|:---:|
+|Instance Start up| milliseconds|Minutes|
+|SSH access|No|Yes(althought not by default|
+|Write Local disk|NO|Yes(but writes are ephemeral)|
+|Support for 3rd-party binary|NO|Yes|
+|Network access|Via App Engine Service|Yes|
+|Pricing Network access|After free daily use, pay per instance|Pay for resource allocation per hour|
+
+## Cloud Endpoints
